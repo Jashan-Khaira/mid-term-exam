@@ -1,0 +1,11 @@
+{
+    "name": "static-site",
+    "version": "1.0.0",
+    "description": "A simple static site",
+    "main": "index.html",
+    "scripts": {
+      "start": "echo 'No server required for static site'"
+    },
+    "dependencies": {}
+  }
+  
